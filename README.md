@@ -1,2 +1,2 @@
 # inventory-management-test
-test
+simple inventory management program
